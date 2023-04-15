@@ -1,0 +1,21 @@
+name: LgUhc
+version: 1.0
+author: Walda
+main: lg.main
+commands:
+  test:
+    description: aaa
+  assign:
+    description: aaa
+  start:
+    description: aaa
+  lg: 
+    description: Commandes relatives au Lg Uhc
+  uhcstart:
+    description: aa
+  config:
+    description: Configurer la game
+  decoreco:
+    description: Debug
+  finishstuff:
+    description: aa
